@@ -29,7 +29,7 @@
   gap:10px;
   font-size: 40px;
   font-weight: 600;
-  color: white;
+  color: rgb(0, 0, 0);
   align-items: center;
 }
 
@@ -45,11 +45,21 @@
   color: white;
   text-align: center;
   line-height: 50px;
+  background-color: rgb(70, 66, 66);
+  border-radius: 15px;
 }
 
+.everything {
+  background: url(./images/SamR.jpg);
+
+}
 
 .sc-kTvvXX {
   background-color: #202c37 !important;
   width: 40vw !important;
   height: 450px;
+
+
 }
+
+
